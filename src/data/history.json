@@ -1,0 +1,37 @@
+
+[
+    {
+      "role": "US Technical Recruiter",
+      "organisation": "Raisso - An Arthur Lawrence Company",
+      "startDate": "Feb, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Working closely with clients and their requirement.", 
+        "Working on various Job boards, VMS, ATS and MS Office."
+      ],
+      "imageSrc": "history/raisso1.png"
+    },
+    {
+      "role": "US Technical Recruiter",
+      "organisation": "United Health Care Staffing",
+      "startDate": "Feb, 2023",
+      "endDate": "Feb, 2024",
+      "experiences": [
+        "Worked closely with US Citizens to get a perfect job for them.", 
+        "Worked on various Job boards, VMS, ATS and MS Office."
+      ],
+      "imageSrc": "history/uhc1.png"
+    },
+    {
+      "role": "Associate US Recruiter",
+      "organisation": "eTeam Inc.",
+      "startDate": "Aug, 2022",
+      "endDate": "Feb, 2023",
+      "experiences": [
+        "Worked with people in US to get them a perfect job.",
+        "Learned recruiting skills and US Culture."
+      ],
+      "imageSrc": "history/eTeam1.png"
+    }
+  ]
+  
