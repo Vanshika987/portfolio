@@ -1,5 +1,12 @@
 
 [
+  {
+    "title": "Vanshu's Kitchen",
+    "imageSrc": "projects/Food-del.jpg",
+    "description": "This is a project made to learn the basics of Full Stack Development using MERN.",
+    "skills": ["HTML", "CSS", "React JS", "Node JS", "Mongo DB", "Express JS"],
+    "source": "https://github.com/Vanshika987/vanshus-kitchen"
+  },
     {
       "title": "News-Monkey",
       "imageSrc": "projects/NewsMonkey.jpg",
@@ -13,7 +20,7 @@
       "description": "This is a project made to learn the basics of Web Development using React.",
       "skills": ["HTML", "CSS", "React JS"],
       "demo": "https://vanshika987.github.io/text-utilis/",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Vanshika987/text-utilis"
     }
   ]
   
